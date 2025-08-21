@@ -1,14 +1,17 @@
 /* backgroud-image /*
 body::before{
-img {
-  filter: blur
-}
  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('https://lh3.googleusercontent.com/proxy/KiHwMLSSRyuhotA4od_31wx5oW9rUQItK8Gy9kveFPznrahv7Tb9jGtWHOAPcrY-77kCczJGuHyQVBvL9Gc-J-qXyVYC19KENqK9VnySYbrNPetJFD1qXkha4d5AAKu2')
   filter: blur(3px) brightness(0.2);
   z-index: -1;
-}
+
+   body {
+       background-image: url("https://media.sellfy.store/images/92zKBvw3/IBg6/sellfy.png?w=380.jpg");
+     }
+
+    img {
+  filter: blur
+  } 
