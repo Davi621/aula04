@@ -1,12 +1,4 @@
-/* backgroud-image /*
-body::before{
- position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  filter: blur(3px) brightness(0.2);
-  z-index: -1;
+
 
    body {
        background-image: url("https://media.sellfy.store/images/92zKBvw3/IBg6/sellfy.png?w=380.jpg");
