@@ -1,9 +1,7 @@
-h1{
-    color:white;
-    font-size:xx-large;
-    display: flex;
-    justify-content:space-evenly;
-    text-align: center;
+/* TITULO */
+h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
 }
 
 main{
@@ -12,12 +10,12 @@ main{
     justify-content:space-evenly;
     text-align: center;
 }
+
 p{
   color: white
   display: flex;
-    justify-content:space-evenly;
-    text-align: center;
-}
+  text-align::before;
+    
    
 /* Background blur */
 body::before {
