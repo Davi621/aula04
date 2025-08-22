@@ -1,7 +1,5 @@
-/* TITULO */
-h1 {
-  font-size: 3rem;
-  margin-bottom: 10px;
+
+h1{
     color:white;
     font-size:xx-large;
     display: flex;
@@ -19,7 +17,7 @@ main{
 }
 p{
   color: white
-  display: flex;
+}
 
    
 
