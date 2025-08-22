@@ -18,6 +18,7 @@ main{
   min-height: 100vh;
 }
 p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: white;
   text-align: center;
 }
