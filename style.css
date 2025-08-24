@@ -3,10 +3,12 @@ h1{
     color:white;
     font-size: 3rem;
     margin-bottom: 10px;
-    display: flex;
-    justify-content:space-evenly;
     text-align: center;
 }
+ body{ 
+      display: flex;
+      justify-content:space-evenly;
+  }
 
 
 
